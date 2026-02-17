@@ -1,6 +1,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-donroyees@gmail.com-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white&link=mailto:donroyees)]()
+[![LinkedIn Badge](https://img.shields.io/badge/-don-royees-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/don-royees/)](https://www.linkedin.com/in/don-royees/)
 
-## Hi there 👋
+## Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Im a second year student at the University of Surrey and im intrested in being a full stack devloper and cloud/devOps ☺️.
 
