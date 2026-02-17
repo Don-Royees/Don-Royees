@@ -1,5 +1,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-donroyees@gmail.com-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white&link=mailto:donroyees)]()
-[![Linkedin Badge](https://img.shields.io/badge/-pranjalbhardwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/don-royees/)](https://www.linkedin.com/in/don-royees/)
+[![Linkedin Badge](https://img.shields.io/badge/-Don_Royees-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/don-royees/)](https://www.linkedin.com/in/don-royees/)
 
 ## Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
