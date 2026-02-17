@@ -1,3 +1,5 @@
+[![Gmail Badge](https://img.shields.io/badge/-donroyees@gmail.com-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white&link=mailto:donroyees)]()
+
 ## Hi there 👋
 
 Im a second year student at the University of Surrey and im intrested in being a full stack devloper and cloud/devOps ☺️.
